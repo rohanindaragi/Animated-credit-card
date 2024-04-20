@@ -1,3 +1,4 @@
+Live: https://6623518c26144c88e413d142--zesty-sorbet-7a0dfd.netlify.app/
 # Animated Credit Card Form
 
 This project presents an animated credit card form designed to enhance user experience when inputting credit card information. Developed using HTML, CSS, and JavaScript frontend tools, it offers a visually engaging interface with smooth animations and interactive feedback.
